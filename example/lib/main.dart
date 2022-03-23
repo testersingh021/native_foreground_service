@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foreground_service/foreground_service.dart';
+import 'package:native_foreground_service/native_foreground_service.dart';
 
 void main() {
   runApp(MyApp());

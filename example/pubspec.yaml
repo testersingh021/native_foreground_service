@@ -3,7 +3,7 @@ description: Demonstrates how to use the foreground_service plugin.
 publish_to: 'none'
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.16.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  foreground_service:
+  native_foreground_service:
     path: ../
 
 # For information on the generic Dart part of this file, see the

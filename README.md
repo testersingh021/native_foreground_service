@@ -1,4 +1,4 @@
-# foreground_service (Flutter v.1.12.x or later)
+# native_foreground_service: ^1.0.1
 
 Create Android foreground service&#x2F;notification
 
