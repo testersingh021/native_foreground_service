@@ -8,6 +8,7 @@ version: 1.0.1
 homepage: https://github.com/testersingh021
 repository: https://github.com/testersingh021/native_foreground_service
 issue_tracker: https://github.com/testersingh021/native_foreground_service/issues
+#flutter packages pub publish
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
