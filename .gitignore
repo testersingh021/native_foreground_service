@@ -12,3 +12,7 @@ build/
 example/ios
 /ios/*
 !ios/native_foreground_service.podspec
+
+
+
+
